@@ -1,0 +1,45 @@
+RASCUNHOS PERSONALIZADOS · NÃO CONFUNDIR COM REGISTRO DE ENVIO
+
+PICPAY — usar somente contato público adequado ou conversa com recrutador
+Assunto: Backend pleno | demonstração de reenvio seguro e confirmação perdida
+
+Olá! Sou Pedro Igor, desenvolvedor full-stack, e estou buscando uma oportunidade de nível pleno.
+
+Ao estudar a documentação pública de idempotência do PicPay, montei um laboratório em C#/.NET 8 para explorar um caso: o destino grava a operação, mas a confirmação se perde. A demonstração permite provocar essa falha e acompanhar o reenvio sem duplicar o efeito no destino simulado.
+
+O projeto tem 12 testes, incluindo concorrência, rollback e recuperação após reinício, além de um painel e decisões documentadas: https://github.com/pedroigor-dev/retrylab
+
+É um estudo independente, sem integração com o PicPay. Gostaria de apresentar as decisões técnicas e conversar sobre oportunidades backend ou full-stack. Você acompanha alguma seleção nessa linha ou saberia indicar o contato adequado?
+
+Obrigado!
+Pedro Igor
+
+CI&T — canal oficial de dúvidas de recrutamento, não caixa de avaliação técnica
+Destinatário verificado: attractingtalk@ciandt.com
+Assunto: Como acrescentar uma demonstração técnica ao meu perfil de candidato?
+
+Olá, equipe de Talent Attracting! Tudo bem?
+
+Sou Pedro Igor Campos, desenvolvedor full-stack. Estou buscando uma oportunidade de nível pleno na CI&T e gostaria de saber qual é o canal adequado para acrescentar uma demonstração técnica ao meu perfil de candidato.
+
+Depois de ler um case público de transformação bancária da CI&T, quis preparar uma entrega pequena e verificável sobre confiabilidade de integrações. O RetryLab, em C#/.NET 8, simula falhas e confirmações perdidas, com outbox persistente, reenvio idempotente e 12 testes. Código, capturas e limites do estudo: https://github.com/pedroigor-dev/retrylab
+
+Trabalho com React, Next.js, TypeScript e C#/.NET; na Kempetro, atuei com NestJS e integração de APIs. Gostaria de ter a oportunidade de apresentar meu trabalho e conversar sobre uma posição compatível. Como posso encaminhar esse material à pessoa responsável pela seleção?
+
+Obrigado pela orientação!
+Pedro Igor
+https://www.linkedin.com/in/pedroigorcc/
+
+STEFANINI — usar somente contato público adequado ou conversa com recrutador
+Assunto: Full-stack pleno | laboratório de falhas e recuperação em .NET
+
+Olá! Sou Pedro Igor, desenvolvedor full-stack em Lauro de Freitas/BA, e estou buscando uma oportunidade de nível pleno.
+
+Li o case da Stefanini Technology sobre automação e confiabilidade em clientes dos setores automotivo e financeiro. A leitura me levou a preparar um recorte prático: um laboratório em .NET 8 no qual é possível provocar falhas de entrega, observar o estado persistido e recuperar eventos sem duplicar o efeito no destino simulado.
+
+O projeto tem 12 testes e um painel para demonstrar os cenários: https://github.com/pedroigor-dev/retrylab
+
+Minha experiência profissional inclui React, Next.js, TypeScript, C#/.NET e integração de APIs com NestJS. Gostaria de mostrar o código e explicar as decisões numa conversa com o time. Você acompanha oportunidades compatíveis ou poderia me indicar a pessoa responsável?
+
+Obrigado!
+Pedro Igor
