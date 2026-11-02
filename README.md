@@ -46,6 +46,8 @@ Com mais de um evento, o worker pega o elegível mais antigo por `due_at`. O bot
 
 São **12 casos de teste** (incluindo os três valores inválidos da teoria). Não representam benchmark de carga nem certificação de produção.
 
+O modelo de GitHub Actions está em `docs/github-actions-ci.example.yml`. Ele não está ativo: a credencial usada na publicação não tem permissão para gravar workflows. Os resultados acima são locais. Para ativar depois, copie o modelo para `.github/workflows/ci.yml` com uma credencial apropriada.
+
 ## Arquitetura
 
 ```mermaid

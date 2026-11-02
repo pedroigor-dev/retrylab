@@ -7,4 +7,4 @@
 - Capturas reais em `screenshots/`: estado com falha, recuperação e mobile.
 - Tela pequena: viewport de 390px, sem overflow horizontal da página; a tabela tem área própria de rolagem. Botões principais com cerca de 298px de largura. Viewport restaurado depois da conferência.
 
-Os dados exibidos nas capturas são fictícios, criados na verificação. Não foi testado tráfego real, integração com empresas ou execução em cluster. O workflow de CI foi incluído; esta nota só afirma os testes locais, não antecipa resultado remoto.
+Os dados exibidos nas capturas são fictícios, criados na verificação. Não foi testado tráfego real, integração com empresas ou execução em cluster. O modelo de CI está em `github-actions-ci.example.yml`, ainda desativado: a credencial GitHub disponível não permite publicar workflows. Não foram solicitadas permissões adicionais. Esta nota só afirma os testes locais, não um resultado de CI remoto.
