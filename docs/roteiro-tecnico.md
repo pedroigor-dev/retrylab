@@ -11,4 +11,4 @@
 9. Explique os limites: sem rede entre componentes, sem autenticação, sem carga de produção, sem dados reais.
 10. Para produção, proponha um passo de cada vez: receptor HTTP com contrato idempotente, autenticação, métricas, banco adequado e worker hospedado. Só então compare comportamento e carga medidos.
 
-Se não conseguir explicar uma parte, use o laboratório para estudá-la antes da entrevista. Código criado com auxílio de ferramentas deve ser apresentado como projeto pessoal assistido, sem atribuir uso profissional ou resultado empresarial que não ocorreu.
+Se não conseguir explicar uma parte, use o laboratório para estudá-la antes da entrevista. Apresente o trabalho como projeto pessoal, sem atribuir uso profissional ou resultado empresarial que não ocorreu.

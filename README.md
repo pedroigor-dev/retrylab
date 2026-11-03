@@ -109,6 +109,6 @@ Projeto independente de estudo/portfólio, sem vínculo, aprovação ou encomend
 
 ## Para conversar sobre o código
 
-Antes de apresentar, percorra [docs/roteiro-tecnico.md](docs/roteiro-tecnico.md): ele reúne perguntas, arquivos e limitações que vale conseguir explicar. O desenvolvimento teve apoio de Codex; isso não substitui compreender, revisar e conseguir defender cada decisão.
+Antes de apresentar, percorra [docs/roteiro-tecnico.md](docs/roteiro-tecnico.md): ele reúne perguntas, arquivos e limitações que vale conseguir explicar. Revise o código e os testes para compreender e conseguir defender cada decisão.
 
 Autor: [Pedro Igor](https://github.com/pedroigor-dev).
